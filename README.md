@@ -7,3 +7,7 @@ Steps to install
 3. yarn start
 
 server runs in port 3000
+
+This project has a dependency. For it to work properly, we need to install and run AuthServ. 
+
+Please clone AuthServ from -> https://github.com/vivekkrishnavk/AuthServ
